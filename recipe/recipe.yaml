@@ -1,5 +1,5 @@
 context:
-  version: "0.0.43"
+  version: "0.0.44"
 
 package:
   name: zensical-ui
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/z/zensical-ui/zensical_ui-${{ version }}.tar.gz
-  sha256: e82d161ad797fff833cd045cfa3ddb9be69f276386b78dd5a4dff76dfbd41596
+  sha256: 7c47d4f02b5ac6aedbd0ea0b9591012e13519448df75d5e009af2ea0e60567f2
 
 build:
   number: 0
